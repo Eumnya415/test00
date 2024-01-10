@@ -7,4 +7,5 @@
 ### 파일 업데이트 기록
 * pom.xml dependency 추가 수정
 * web.xml filter 추가 (24.01.09.)
+* log4j.xml 상단부분 오류 수정 (24.01.10.)
 
